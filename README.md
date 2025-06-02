@@ -1,6 +1,7 @@
 🏍️ Bike Prices Dashboard 
 
 📊 Overview
+
 This project analyzes a dataset of used motorcycles using Python, uncovering trends in pricing based on ownership, brand, model year, and location. It features a visually engaging dashboard with custom 3D cylinder-style bar charts to present insights more effectively.
 
 🔍 Objectives
@@ -54,27 +55,27 @@ Basic preprocessing includes:
 
 1. Price Distribution
 
-A histogram showing the overall price distribution with KDE overlay.
+-> A histogram showing the overall price distribution with KDE overlay.
 
 2. Average Price by Owner Type
 
-Cylinder-style bar chart illustrating how price varies across first, second, and other owner types.
+-> Cylinder-style bar chart illustrating how price varies across first, second, and other owner types.
 
 3. Average Price Over Model Years
 
-Line plot highlighting trends in average pricing over time.
+-> Line plot highlighting trends in average pricing over time.
 
 4. Top 10 Brands by Average Price
 
-Comparison of the highest-priced brands using 3D-style bars.
+-> Comparison of the highest-priced brands using 3D-style bars.
 
 5. Top 15 Locations by Average Price
 
-Visualizing geographic pricing trends using location-based averages.
+-> Visualizing geographic pricing trends using location-based averages.
 
 6. Median Price by Ownership
 
-Helps identify typical prices by owner category, less affected by outliers.
+-> Helps identify typical prices by owner category, less affected by outliers.
 
 🎨 Visual Style
 
